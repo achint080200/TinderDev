@@ -1,0 +1,19 @@
+{
+  "name": "tinderdev",
+  "version": "1.0.0",
+  "description": "The tinder app that use for developers connection",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "achint p",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0"
+  }
+}
